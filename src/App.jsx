@@ -1,7 +1,7 @@
 import React, { useState } from "react";
                    
 const App = () => {                      
-  let status = true;  
+  let status = true;   
 
   let cities = [];
 
